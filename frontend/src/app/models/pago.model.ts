@@ -1,0 +1,1 @@
+export interface Pago {\n  id?: number;\n  usuarioId?: number;\n  referenciaId?: number;\n  monto?: number;\n  metodo?: string;\n  fecha?: string;\n  estado?: string;\n  referencia?: string;\n}}\n

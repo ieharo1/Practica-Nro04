@@ -1,0 +1,1 @@
+export interface Pedido {\n  id?: number;\n  clienteId?: number;\n  fecha?: string;\n  estado?: string;\n  total?: number;\n}}\n

@@ -1,0 +1,1 @@
+export interface PedidoDetalle {\n  id?: number;\n  pedidoId?: number;\n  productoId?: number;\n  cantidad?: number;\n  precioUnitario?: number;\n  subtotal?: number;\n}}\n

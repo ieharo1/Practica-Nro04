@@ -1,0 +1,1 @@
+export interface Cliente {\n  id?: number;\n  nombre?: string;\n  email?: string;\n  telefono?: string;\n  direccion?: string;\n}}\n
